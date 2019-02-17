@@ -1,6 +1,6 @@
 # tribute-page-fcc
 
-## What it is?
+## What is it?
 
 The Tribute Page is a project from Free Code Camp which uses HTML and CSS. It's a project intended to make you use the fundamental you've learnt throughout the given challeges.
 
